@@ -5,21 +5,21 @@
 
 ---
 
-**Обо мне:** 23+ года в Enterprise-разработке (банки, госсектор). Сейчас фокус на Python, AI-агентов и Telegram-ботов. Умею строить надёжные архитектуры и быстро запускать MVP.
+**Обо мне:** 23+ года в Enterprise-разработке (банки, госсектор). Специализируюсь на сложной банковской отчётности (Oracle PL/SQL). Сейчас в фокусе — Python, AI-агенты и Telegram-боты. Умею строить надёжные архитектуры и быстро запускать MVP.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Aiogram-2E86AB?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 ---
