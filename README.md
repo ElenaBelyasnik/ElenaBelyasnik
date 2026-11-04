@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi, I'm Elena 👋</h1>
-  <h3 align="center"><b>Vibe Coder &amp; Backend Engineer</b></h3>
+  <h3 align="center"><b>Backend Engineer &amp; Vibe Coder</b></h3>
 </p>
 
 ---
